@@ -1,4 +1,4 @@
-# 26_525 T=7 Elasticity Model Package
+# DUM-NET: A MODEL-DRIVEN UNROLLED FRAMEWORK FOR MULTI-MODAL IMAGE REGISTRATION
 
 This folder contains only the code path used by `26_525/best_dice_model_swin.pth`,
 plus the `data8k10` dataset and the required weights.
